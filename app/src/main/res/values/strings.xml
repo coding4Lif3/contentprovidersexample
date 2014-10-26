@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ContentProviderExample</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="title_person_list">Persons</string>
+    <string name="title_person_detail">Person Detail</string>
+
+</resources>
